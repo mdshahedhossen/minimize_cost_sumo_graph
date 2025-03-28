@@ -1,0 +1,10 @@
+-----------------------------------------------------
+Source Node: 16874253
+Destination Node: 12475553343
+Initial Battery Level: 90%
+Total Distance: 753.43 km
+Total Time: 904.12 minutes
+Charge Consumed: 256.52 kWh
+Total Trip Cost: $128.26
+Execution Time: 3.3979 seconds
+-----------------------------------------------------------
